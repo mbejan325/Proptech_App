@@ -21,7 +21,7 @@ Operating System: Windows 10
 **Installation Guide** To run this application please follow the following steps:
 
 1) Clone the repository
-2) Open up your python CLI and activate the dev environment. Python version 3.7.10 needs to be used.
+2) Open up your python CLI and activate the 'pyvizenv' environment. Python version 3.7.10 needs to be used.
 3) Navigate to the "Proptech_app" folder and run "jupyter notebook" command to open the jupyter notebook interface.
 4) In Jupyter notebook, select the "final_san_francisco_housing.ipynb" file, it is located in the "Starter_Code" folder within the "Proptech_app" 
 folder.
